@@ -9,6 +9,7 @@ direction for one objective while identifying promising solutions for the other 
 
 # Reference
 If you found LCE-SAEA useful, we would be grateful if you cite the following reference:
+
 Chenyan Gu, Handing Wang, A Local Correlation Estimation Surrogate-Assisted Bi-Objective Evolutionary Algorithm
 for Heterogeneous Objectives, Applied Soft Computing, vol.151, pp.111175, 2024.
 
